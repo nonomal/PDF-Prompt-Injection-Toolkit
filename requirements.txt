@@ -1,0 +1,4 @@
+pikepdf
+pypdf
+pdfplumber
+reportlab
